@@ -15,3 +15,4 @@ function listTasks() {
 }
 
 listTasks();
+console.log("\n=== Happy coding! ===");
