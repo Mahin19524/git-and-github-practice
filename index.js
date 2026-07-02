@@ -1,4 +1,4 @@
-console.log("Welcome to TaskFlow CLI!");
+console.log("=== TaskFlow Developer workspace (Production) ===");
 
 const tasks = [
     { id: 1, title: "Learn Git Basics", completed: true },
@@ -15,3 +15,4 @@ function listTasks() {
 }
 
 listTasks();
+console.log("\n=== Happy coding! ===");
