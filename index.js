@@ -16,5 +16,3 @@ function listTasks() {
 
 listTasks();
 console.log("\n=== Happy coding! ===");
-
-console.log("This code will cause bug in future hahahaha!");
