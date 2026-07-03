@@ -16,3 +16,5 @@ function listTasks() {
 
 listTasks();
 console.log("\n=== Happy coding! ===");
+
+console.log(`You are very lucky and your lucky number is ${Math.floor(Math.random() * 100)}`);
